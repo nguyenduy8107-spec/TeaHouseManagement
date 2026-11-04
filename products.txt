@@ -1,0 +1,29 @@
+P001|Oolong Tea - Pot (8-10g)|Tea|Pot|150000|28
+P002|Thiet Quan Am - Pot (8-10g)|Tea|Pot|220000|25
+P003|Aged White Tea with Agarwood - Pot (8-10g)|Tea|Pot|350000|15
+P004|Oriental Beauty - Pot (8-10g)|Tea|Pot|300000|15
+P005|Oolong Tea - 50g|Tea|50g|250000|20
+P006|Oolong Tea - 100g|Tea|100g|450000|15
+P007|Oolong Tea - 200g|Tea|200g|850000|7
+P008|Oolong Tea - Tea Cake 357g|Tea|357g|1.4e+06|8
+P009|Oolong Tea - 1kg|Tea|1kg|3.5e+06|5
+P010|Thiet Quan Am - 50g|Tea|50g|350000|20
+P011|Thiet Quan Am - 100g|Tea|100g|650000|15
+P012|Thiet Quan Am - 200g|Tea|200g|1.2e+06|10
+P013|Thiet Quan Am - Tea Cake 357g|Tea|357g|2e+06|8
+P014|Thiet Quan Am - 1kg|Tea|1kg|4.8e+06|5
+P015|Aged White Tea with Agarwood - 50g|Tea|50g|600000|12
+P016|Aged White Tea with Agarwood - 100g|Tea|100g|1.1e+06|10
+P017|Aged White Tea with Agarwood - 200g|Tea|200g|2.1e+06|8
+P018|Aged White Tea with Agarwood - Tea Cake 357g|Tea|357g|3.5e+06|5
+P019|Aged White Tea with Agarwood - 1kg|Tea|1kg|8.5e+06|3
+P020|Oriental Beauty - 50g|Tea|50g|500000|12
+P021|Oriental Beauty - 100g|Tea|100g|950000|10
+P022|Oriental Beauty - 200g|Tea|200g|1.8e+06|8
+P023|Oriental Beauty - Tea Cake 357g|Tea|357g|3e+06|5
+P024|Oriental Beauty - 1kg|Tea|1kg|7.2e+06|3
+T001|Tu Sa Teapot|Utensil|Piece|1.8e+06|5
+T002|Porcelain Teapot|Utensil|Piece|650000|8
+T003|Gaiwan Set|Utensil|Set|850000|8
+T004|Fairness Pitcher (Tong)|Utensil|Piece|250000|13
+T005|Tea Cup Set|Utensil|Set|450000|12

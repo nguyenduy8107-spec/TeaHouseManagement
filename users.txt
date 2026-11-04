@@ -1,0 +1,4 @@
+U001|owner|123456|Tea House Owner|Owner
+U002|staff01|123456|Tea House Staff|Staff
+U003|artist01|123456|Tea Artist|Artist
+U004|customer01|123456|Sample Customer|Customer

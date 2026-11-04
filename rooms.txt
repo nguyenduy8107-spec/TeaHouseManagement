@@ -1,0 +1,4 @@
+R001|Phong Sen|4|500000|Available|Traditional private tea room
+R002|Phong Truc|6|800000|Available|Quiet room with bamboo decor
+R003|Phong Moc|10|1200000|Available|Large group tea room
+R004|Phong Thuong Tra|12|2000000|Available|Premium tea room for private events
